@@ -1,0 +1,23 @@
+.formControl.error input,
+.formControl.error textarea
+{
+    background-color: transparent;
+    border: 2px solid red;
+}
+
+.formControl.error span {
+    background-color: transparent;
+    color: red;
+}
+
+.opacic {
+    background-color: transparent;
+}
+
+.formConclusionError {
+    color: red;
+    border: 1px solid red;
+}
+.formControl {
+    background-color: transparent;
+}
